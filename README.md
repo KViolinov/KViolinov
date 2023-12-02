@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KViolinov
+- 👀 I’m interested in C++, C#, PHP, Arduino
+- 🌱 I’m currently learning to be batman
+- 📫 How to reach me
+- ig: @k.violinov467
+- tiktok: @k.violinov467
