@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Konstantin Violinov
-- 🏫 Currently a Freshman
-- 👀 I’m interested in C++, C#, PHP, Arduino
-- 🌱 I’m currently learning to be batman
-- 📫 How to reach me
+Nai dobriqt Programist sred muzikantite💻
+Nai dobriqt Muzikant sred programistite🎵
+jack of all trades 💯
+Sophomore🙏
 - ig: @k.violinov467
 - discord: loading.6240
-- work email: n3twork_5h4d0w@proton.me 
