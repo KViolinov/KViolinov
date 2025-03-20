@@ -9,4 +9,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cs,dart,flutter,docker,firebase,git,github,opencv,php,py,pycharm,tensorflow,raspberrypi&perline=3)](https://skillicons.dev)
