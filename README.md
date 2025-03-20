@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cs,dart,flutter,docker,firebase,git,github,opencv,php,py,pycharm,tensorflow,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cs,dart,flutter,php,docker,firebase,git,github,py,pycharm,opencv,tensorflow,raspberrypi,kali,linux,windows,powershell,visualstudio)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KViolinov&theme=dark&hide_border=false)<br/>
