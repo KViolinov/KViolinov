@@ -3,8 +3,14 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cs,dart,flutter,php,py,pycharm,clion,opencv,tensorflow,raspberrypi,docker,firebase,sqlite,kali,linux,windows,powershell,vscode,visualstudio)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KViolinov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KViolinov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KViolinov&icon=0&color=0)](https://visitcount.itsvg.in)
