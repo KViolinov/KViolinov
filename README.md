@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,cs,dart,flutter,php,py,pycharm,clion,opencv,tensorflow,raspberrypi,docker,firebase,sqlite,kali,linux,windows,powershell,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,esp32,cpp,python,cs,php,dart,flutter,raspberrypi,opencv,tensorflow,mqtt,docker,firebase,sqlite,git,linux,windows,bash,powershell,vscode,visualstudio,pycharm,clion)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
