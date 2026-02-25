@@ -2,32 +2,39 @@
 
 ## 🛠 Tech Stack
 
-### ⚙️ Backend & AI
+### ⚙️ AI/ML & Computer Vision
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,tensorflow,opencv,firebase,sqlite" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  </a>
+</p>
+
+### 🌐 Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,php,firebase,sqlite,postgresql" />
+  </a>
 </p>
 
 ### 🔌 Embedded & IoT
 <p align="left">
-<a href="https://skillicons.dev) ">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,cs,raspberrypi" />
+  </a>
 </p>
 
-### 💻 Mobile & Frontend
+### 📱 Mobile & Frontend
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  </a>
 </p>
 
 ### 🛠 Tools & Environments
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,windows,bash,powershell,vscode,pycharm,clion" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,windows,bash,powershell,vscode,pycharm,clion,visualstudio" />
+  </a>
 </p>
 
 # 📊 GitHub Stats:
