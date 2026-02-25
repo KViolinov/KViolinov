@@ -2,13 +2,6 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Mobile & Frontend
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</a>
-</p>
-
 ### ⚙️ Backend & AI
 <p align="left">
 <a href="https://skillicons.dev">
@@ -20,6 +13,13 @@
 <p align="left">
 <a href="https://skillicons.dev) ">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</a>
+</p>
+
+### 💻 Mobile & Frontend
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 </a>
 </p>
 
