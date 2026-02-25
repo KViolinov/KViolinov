@@ -1,6 +1,34 @@
-# 💻 Tech Stack:
+<!-- [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,python,cs,php,dart,flutter,raspberrypi,opencv,tensorflow,docker,firebase,sqlite,git,linux,windows,bash,powershell,vscode,visualstudio,pycharm,clion)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,python,cs,php,dart,flutter,raspberrypi,opencv,tensorflow,docker,firebase,sqlite,git,linux,windows,bash,powershell,vscode,visualstudio,pycharm,clion)](https://skillicons.dev)
+## 🛠 Tech Stack
+
+### 💻 Mobile & Frontend
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</a>
+</p>
+
+### ⚙️ Backend & AI
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,php,tensorflow,opencv,firebase,sqlite" />
+</a>
+</p>
+
+### 🔌 Embedded & IoT
+<p align="left">
+<a href="https://skillicons.dev) ">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</a>
+</p>
+
+### 🛠 Tools & Environments
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,windows,bash,powershell,vscode,pycharm,clion" />
+</a>
+</p>
 
 # 📊 GitHub Stats:
 
