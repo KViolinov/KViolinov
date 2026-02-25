@@ -19,7 +19,7 @@
 ### 🔌 Embedded & IoT
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,cs,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
   </a>
 </p>
 
